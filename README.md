@@ -1,2 +1,2 @@
 ### Hi there 👋 
-Read more at [link](https://subedi.ml)
+Read more at [https://subedi.ml](https://subedi.ml)
