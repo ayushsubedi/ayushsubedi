@@ -1,2 +1,2 @@
 ### Hi there 👋 
-Read more at [https://subedi.ml](https://subedi.ml)
+I am a student, teacher and consumer of data.
