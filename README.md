@@ -1,4 +1,4 @@
-### Namaste 🙏 
+### hi ✌🏻
 
 I am Ayush. I am a student, a teacher, and a practitioner of data science.  
 
