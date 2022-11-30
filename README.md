@@ -8,4 +8,4 @@ I am Ayush. I am a student, a teacher, and a practitioner of data science.
 - advising for @codefornepal for data literacy in Nepal.
 - graduate student at Georgia Institute of Technology (Masters in Analytics with focus in Machine Learning)
 - [Here](https://linkedin.com/in/ayush-subedi) is my linkedin if you want to connect.
-- [Here](https://github.gatech.edu/asubedi6) is the link to my Gatech Github
+- For GaTech folks, [Here](https://github.gatech.edu/asubedi6) is the link to my Gatech Github
