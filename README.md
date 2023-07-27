@@ -9,7 +9,7 @@ I am Ayush. I am a student, a teacher, and a practitioner of data science. For G
 - [Redesigning the Goodreads bookshelf interaction](https://ayushsubedi.github.io/posts/redesigning_goodreads/)
 - [Code for Nepal and DataCamp Partnership: Empowering Data Literacy and Career Growth](https://ayushsubedi.github.io/posts/code_for_nepal/)
 - [Ethics in Human Research](https://ayushsubedi.github.io/posts/ethics_human_research/)
-- [https://ayushsubedi.github.io/posts/airlines_delay/](https://ayushsubedi.github.io/posts/airlines_delay/)
+- [Flight delay prediction and exploration in the US](https://ayushsubedi.github.io/posts/airlines_delay/)
 - [Detecting the edibility of Mushrooms in the wild](https://ayushsubedi.github.io/posts/mushrooms/)
 - [Cheers AI Demo](https://ayushsubedi.github.io/posts/cheers_ai_demo/)
 
