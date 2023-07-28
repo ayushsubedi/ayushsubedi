@@ -1,11 +1,11 @@
 ### hi ✌🏻
 
-I am Ayush. I am a student, a teacher, and a practitioner of data science. For GaTech folks, [Here](https://github.gatech.edu/asubedi6) is the link to my GaTech Github.
+I am Ayush. I am a student, teacher, and data science practitioner. For GaTech folks, [Here](https://github.gatech.edu/asubedi6) is the link to my GaTech Github.
 
 ## Recent Projects:
 - [Enhancing Decision-Making for Parents and Authorities, A Comprehensive Analysis and Mapping of School Performance in New York City](https://ayushsubedi.github.io/posts/school_satisfaction_and_school_ranking)
 - [Machine Learning For Trading](https://ayushsubedi.github.io/posts/machine_learning_for_trading/)
-- [Deterministic Optimiztion](https://ayushsubedi.github.io/posts/deterministic_optimization/)
+- [Deterministic Optimization](https://ayushsubedi.github.io/posts/deterministic_optimization/)
 - [Redesigning the Goodreads bookshelf interaction](https://ayushsubedi.github.io/posts/redesigning_goodreads/)
 - [Code for Nepal and DataCamp Partnership: Empowering Data Literacy and Career Growth](https://ayushsubedi.github.io/posts/code_for_nepal/)
 - [Ethics in Human Research](https://ayushsubedi.github.io/posts/ethics_human_research/)
