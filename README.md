@@ -3,6 +3,7 @@
 I am Ayush. I am a student, teacher, and data science practitioner. For GaTech folks, [Here](https://github.gatech.edu/asubedi6) is the link to my GaTech Github.
 
 ## Recent Projects:
+- [Topics on High-Dimensional Data Analytics](https://ayushsubedi.github.io/posts/topics_on_high_dimensional_data_analytics/)
 - [Enhancing Decision-Making for Parents and Authorities, A Comprehensive Analysis and Mapping of School Performance in New York City](https://ayushsubedi.github.io/posts/school_satisfaction_and_school_ranking)
 - [Machine Learning For Trading](https://ayushsubedi.github.io/posts/machine_learning_for_trading/)
 - [Deterministic Optimization](https://ayushsubedi.github.io/posts/deterministic_optimization/)
