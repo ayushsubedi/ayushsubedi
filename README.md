@@ -14,6 +14,9 @@ I am Ayush. I am a student, teacher, and data science practitioner. For GaTech f
 - [Detecting the edibility of Mushrooms in the wild](https://ayushsubedi.github.io/posts/mushrooms/)
 - [Cheers AI Demo](https://ayushsubedi.github.io/posts/cheers_ai_demo/)
 
+## Recent ML/Stat/Math/CS Paper Exploration
+- [A Unified Approach to Interpreting Model Predictions](https://ayushsubedi.github.io/posts/shap_exploration/)
+
 ## Recent Publication:
 - [Use of telemedicine and artificial intelligence in Eye and ENT: a boon for developing countries](https://ieeexplore.ieee.org/document/10064808/)
 - [Use of Data in the private sector of Nepal](https://documents1.worldbank.org/curated/en/805261601023506163/pdf/Use-of-Data-in-the-Private-Sector-of-Nepal-The-Current-State-and-Opportunities-in-Finance-Education-and-the-Media.pdf)
