@@ -15,6 +15,7 @@ I am Ayush. I am a student, teacher, and data science practitioner. For GaTech f
 - [Cheers AI Demo](https://ayushsubedi.github.io/posts/cheers_ai_demo/)
 
 ## Recent ML/Stat/Math/CS Paper Exploration
+- [Statistical Modeling: The Two Cultures](http://localhost:1313/posts/statistical_modelling_two_cultures/)
 - [A Unified Approach to Interpreting Model Predictions](https://ayushsubedi.github.io/posts/shap_exploration/)
 - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://ayushsubedi.github.io/posts/transformers_for_image_paper_exploration/)
 - [SMOTE: Synthetic Minority Over-sampling Technique](https://ayushsubedi.github.io/posts/smote_paper_exploration/)
